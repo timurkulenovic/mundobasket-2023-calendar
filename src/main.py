@@ -12,6 +12,8 @@ for b_ in game_items:
     l_country = b_.find("table", {"class": "country left"}).find("span", {"class": "long"}).text.strip()
     r_country = b_.find("table", {"class": "country right"}).find("span", {"class": "long"}).text.strip()
     datetime = b_.find("a").get("data-gmt-time")
+    if not datetime:
+        continue
     arena = b_.find("div", {"class": "more_info"}).text.strip().replace("City, Arena: ", "")
     year, month, day, hour, minutes, gmt = datetime.split(",")
     subject = f"{l_country} vs. {r_country}"
@@ -25,5 +27,5 @@ for b_ in game_items:
 
 df = pd.DataFrame(data, columns=["Subject", "Start Date", "End Date", "Start Time",
                                  "End Time", "All Day Event", "Location"])
-df.to_csv("../data/mundobasket_calendar.csv")
+df.to_csv("../data/mundobasket_calendar_second_part.csv")
 

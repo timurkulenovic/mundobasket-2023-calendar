@@ -1,0 +1,45 @@
+,Subject,Start Date,End Date,Start Time,End Time,All Day Event,Location
+0,Cape Verde vs. Finland,08/31/2023,08/31/2023,9:30,11:30,False,"Okinawa (JPN), Okinawa Arena"
+1,Angola vs. China,08/31/2023,08/31/2023,10:00,12:00,False,"Manila (PHI), Araneta Coliseum"
+2,New Zealand vs. Mexico,08/31/2023,08/31/2023,10:45,12:45,False,"Manila (PHI), Mall of Asia Arena"
+3,Cote d'Ivoire vs. Lebanon,08/31/2023,08/31/2023,11:45,13:45,False,"Jakarta (INA), Indonesia Arena"
+4,Japan vs. Venezuela,08/31/2023,08/31/2023,13:10,15:10,False,"Okinawa (JPN), Okinawa Arena"
+5,South Sudan vs. Philippines,08/31/2023,08/31/2023,14:00,16:00,False,"Manila (PHI), Araneta Coliseum"
+6,Egypt vs. Jordan,08/31/2023,08/31/2023,14:30,16:30,False,"Manila (PHI), Mall of Asia Arena"
+7,France vs. Iran,08/31/2023,08/31/2023,15:30,17:30,False,"Jakarta (INA), Indonesia Arena"
+8,Serbia vs. Italy,09/01/2023,09/01/2023,10:00,12:00,False,"Manila (PHI), Araneta Coliseum"
+9,Germany vs. Georgia,09/01/2023,09/01/2023,10:30,12:30,False,"Okinawa (JPN), Okinawa Arena"
+10,USA vs. Montenegro,09/01/2023,09/01/2023,10:40,12:40,False,"Manila (PHI), Mall of Asia Arena"
+11,Spain vs. Latvia,09/01/2023,09/01/2023,11:45,13:45,False,"Jakarta (INA), Indonesia Arena"
+12,Dominican Republic vs. Puerto Rico,09/01/2023,09/01/2023,14:00,16:00,False,"Manila (PHI), Araneta Coliseum"
+13,Slovenia vs. Australia,09/01/2023,09/01/2023,14:10,16:10,False,"Okinawa (JPN), Okinawa Arena"
+14,Lithuania vs. Greece,09/01/2023,09/01/2023,14:40,16:40,False,"Manila (PHI), Mall of Asia Arena"
+15,Canada vs. Brazil,09/01/2023,09/01/2023,15:30,17:30,False,"Jakarta (INA), Indonesia Arena"
+16,Finland vs. Venezuela,09/02/2023,09/02/2023,9:30,11:30,False,"Okinawa (JPN), Okinawa Arena"
+17,Angola vs. South Sudan,09/02/2023,09/02/2023,10:00,12:00,False,"Manila (PHI), Araneta Coliseum"
+18,New Zealand vs. Egypt,09/02/2023,09/02/2023,10:45,12:45,False,"Manila (PHI), Mall of Asia Arena"
+19,Cote d'Ivoire vs. France,09/02/2023,09/02/2023,11:45,13:45,False,"Jakarta (INA), Indonesia Arena"
+20,Japan vs. Cape Verde,09/02/2023,09/02/2023,13:10,15:10,False,"Okinawa (JPN), Okinawa Arena"
+21,Philippines vs. China,09/02/2023,09/02/2023,14:00,16:00,False,"Manila (PHI), Araneta Coliseum"
+22,Jordan vs. Mexico,09/02/2023,09/02/2023,14:30,16:30,False,"Manila (PHI), Mall of Asia Arena"
+23,Iran vs. Lebanon,09/02/2023,09/02/2023,15:30,17:30,False,"Jakarta (INA), Indonesia Arena"
+24,Australia vs. Georgia,09/03/2023,09/03/2023,9:30,11:30,False,"Okinawa (JPN), Okinawa Arena"
+25,Italy vs. Puerto Rico,09/03/2023,09/03/2023,10:00,12:00,False,"Manila (PHI), Araneta Coliseum"
+26,Greece vs. Montenegro,09/03/2023,09/03/2023,10:40,12:40,False,"Manila (PHI), Mall of Asia Arena"
+27,Brazil vs. Latvia,09/03/2023,09/03/2023,11:45,13:45,False,"Jakarta (INA), Indonesia Arena"
+28,Germany vs. Slovenia,09/03/2023,09/03/2023,13:10,15:10,False,"Okinawa (JPN), Okinawa Arena"
+29,Dominican Republic vs. Serbia,09/03/2023,09/03/2023,14:00,16:00,False,"Manila (PHI), Araneta Coliseum"
+30,USA vs. Lithuania,09/03/2023,09/03/2023,14:40,16:40,False,"Manila (PHI), Mall of Asia Arena"
+31,Spain vs. Canada,09/03/2023,09/03/2023,15:30,17:30,False,"Jakarta (INA), Indonesia Arena"
+32,Group I 1 vs. Group J 2,09/05/2023,09/05/2023,00:00,00:00,True,
+33,Group J 1 vs. Group I 2,09/05/2023,09/05/2023,00:00,00:00,True,
+34,Group K 1 vs. Group L 2,09/06/2023,09/06/2023,00:00,00:00,True,
+35,Group L 1 vs. Group K 2,09/06/2023,09/06/2023,00:00,00:00,True,
+36,Loser QF 81: I1 v J2 vs. Loser QF 83: K1 v L2,09/07/2023,09/07/2023,00:00,00:00,True,
+37,Loser QF 82: J1 v I2 vs. Loser QF 84: L1 v K2,09/07/2023,09/07/2023,00:00,00:00,True,
+38,Winner QF 81: I1 v J2 vs. Winner QF 83: K1 v L2,09/08/2023,09/08/2023,00:00,00:00,True,
+39,Winner QF 82: J1 v I2 vs. Winner QF 84: L1 v K2,09/08/2023,09/08/2023,00:00,00:00,True,
+40,Loser CL 5-8 85: L QF 81 v L QF 83 vs. Loser CL 5-8 86: L QF 82 v L QF 84,09/09/2023,09/09/2023,00:00,00:00,True,
+41,Winner CL 5-8 85: L QF 81 v L QF 83 vs. Winner CL 5-8 86: L QF 82 v L QF 84,09/09/2023,09/09/2023,00:00,00:00,True,
+42,Loser SF 87: W QF 81 v W QF 83 vs. Loser SF 88: W QF 82 v W QF 84,09/10/2023,09/10/2023,10:30,12:30,False,"Manila (PHI), Mall of Asia Arena"
+43,Winner SF 87: W QF 81 v W QF 83 vs. Winner SF 88: W QF 82 v W QF 84,09/10/2023,09/10/2023,14:40,16:40,False,"Manila (PHI), Mall of Asia Arena"
